@@ -6,6 +6,8 @@ Proyek ini merupakan implementasi sistem monitoring kualitas udara berbasis Inte
 
 Data hasil monitoring divisualisasikan menggunakan dashboard berbasis Streamlit yang menyediakan tampilan interaktif berupa indikator monitoring, grafik visualisasi, heatmap korelasi, dan analisis dataset Air Quality UCI.
 
+Link web:https://monitoring-kualitas-udara-iot-bpvsqgpbressyifnxs4pkp.streamlit.app/
+
 ---
 
 ## 🎯 Tujuan
